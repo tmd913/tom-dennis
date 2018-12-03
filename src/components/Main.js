@@ -64,14 +64,15 @@ class Main extends React.Component {
           </p>
           <p>
             My first job in consulting led me to Washington, DC, and although
-            after about a year I realized that the consulting lifestyle was not
-            for me, I did learn a lot about myself throughout the process and
-            ended up in a city that I love. With the support of my family and
-            friends I decided once again to pursue my goal of becoming a
-            software developer by completing George Washington University's Web
-            Development Bootcamp, an invaluable experience that augmented my
-            academic knowledge as a Computer Science major with hands on
-            exposure to full-stack web application development.
+            after about a year I realized that consulting lacked the creativity
+            that I enjoyed most as a Computer Science major, I did learn a lot
+            about myself throughout the process and ended up in a city that I
+            love. With the support of my family and friends I decided once again
+            to pursue my goal of becoming a software developer by completing
+            George Washington University's Web Development Bootcamp, an
+            invaluable experience that augmented my academic knowledge as a
+            Computer Science major with hands on exposure to full-stack web
+            application development.
           </p>
           <p>
             I now know that there was no reason to ever doubt myself as a
