@@ -44,29 +44,39 @@ class Main extends React.Component {
           <p>
             Hi! My name is Tom, and I was born and raised in Wyomissing, PA
             (about an hour NW of Philadelphia). Throughout my childhood I was
-            always a bit of a nerd, especially when it came to technology. I was
-            fascinated by phones, computers, videogame consoles, and any other
-            electronics I could get my hands on. Although I loved various forms
-            of technology, I never really understood how any of them worked.
+            always a bit of a nerd, especially when it came to technology.
+            Phones, computers, videogame consoles, and any other electronics I
+            could get my hands on fascinated me, but although I loved various
+            forms of technology, I never really understood how they worked.
           </p>
           <p>
             I got my first major exposure to the software on these devices
-            during an introductory Computer Science course during my sophomore
-            year at the University of Richmond, and I liked the material so much
-            that I decided to major in Computer Science. Majoring in Computer
-            Science was a long and bumpy road, and while I did like my classes,
-            I ultimately decided to pursue a consulting job after graduation
-            rather than enter the technology industry.
+            during an introductory Computer Science course my sophomore year at
+            the University of Richmond, and I liked the material so much that I
+            decided to major in Computer Science. This decision ended up being a
+            great one, as I learned a ton of fundamental coding skills and
+            became a much better problem solver, but even after three years as a
+            Computer Science major I still didn’t know how to build a real world
+            software application. Despite doing well in my classes, I began to
+            mistakenly doubt my abilities as a developer and I ultimately
+            decided to pursue a consulting job after graduation rather than
+            enter the technology industry.
           </p>
           <p>
             My first job in consulting led me to Washington, DC, and although
             after about a year I realized that the consulting lifestyle was not
-            for me, I did learn a lot about myself during the process and ended
-            up in a city that I love. I am extremely excited to get back into
-            the technology industry after completing George Washington
-            University's Web Development Bootcamp, and I am hopeful that I will
-            soon find my dream job using the skills that I have developed
-            throughout the past several months!
+            for me, I did learn a lot about myself throughout the process and ended
+            up in a city that I love. With the support of my family and friends I
+            decided once again to pursue my goal of becoming a software
+            developer by completing George Washington University's Web
+            Development Bootcamp, an invaluable experience that augmented my
+            academic knowledge as a Computer Science major with hands on
+            exposure to full-stack web application development. I now know that
+            there was no reason to ever doubt myself as a developer, all I
+            needed was a push in the right direction. Technology is my passion,
+            and I am hopeful and excited that I will soon find my dream job
+            using the skills that I have developed throughout the past several
+            years!
           </p>
           {close}
         </article>
@@ -391,9 +401,9 @@ class Main extends React.Component {
           <p>
             Please feel free to email or call me if you're interested in
             discussing my work and/or skills! I am actively seeking employment
-            as a web developer, and I am always willing to learn new technolgies
-            in addition to the ones I have already demonstrated experience with.
-            I look forward to speaking with you!
+            as a web developer, and I am always willing to learn new
+            technologies in addition to the ones I have already demonstrated
+            experience with. I look forward to speaking with you!
           </p>
           <p>
             <strong>Address: </strong> 2021 O St NW, Washington, DC 20036
