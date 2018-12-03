@@ -8,6 +8,7 @@ import freakyStyley from '../images/freaky-styley.png'
 import healthyHeads from '../images/healthy-heads.png'
 import cuisintry from '../images/cuisintry.png'
 import pug from '../images/pug.png'
+import scraper538 from '../images/538scraper.png'
 import pokemon from '../images/pokemon.png'
 import giphy from '../images/giphy.png'
 import trivia from '../images/trivia.png'
@@ -230,23 +231,23 @@ class Main extends React.Component {
             </a>
           </p>
           <hr />
-          <h3>Who's That Pokemon?</h3>
+          <h3>538 Scraper</h3>
           <span className="image main">
-            <img src={pokemon} alt="Who's That Pokemon? Screenshot" />
+            <img src={scraper538} alt="538 Scraper Screenshot" />
           </span>
           <p>
-            <strong>Description: </strong> Try to guess the name of the Pokemon.
-            There are four difficulties, each with different battle and victory
-            songs, that change the amount of guesses you get per game.
+            <strong>Description: </strong> Scrapes Five Thirty Eight's website
+            for the most recent articles posted and allows you to save them to a
+            mongoDB database and add comments.
           </p>
           <p>
-            <strong>Technology Used: </strong> Javascript (vanilla), HTML5/CSS3
-            (vanilla)
+            <strong>Technology Used: </strong> Javascript, MongoDB, Node,
+            Express, Handlebars, Materialize
           </p>
           <p>
             <strong>Links: </strong>
             <a
-              href="https://github.com/tmd913/word-guess-game"
+              href="https://github.com/tmd913/mongo-scraper"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -255,7 +256,7 @@ class Main extends React.Component {
             </a>
             <span> | </span>
             <a
-              href="https://tmd913.github.io/word-guess-game/"
+              href="https://fivethirtyeight-scraper.herokuapp.com/"
               target="_blank"
               rel="noopener noreferrer"
             >
@@ -291,6 +292,40 @@ class Main extends React.Component {
             <span> | </span>
             <a
               href="https://tmd913.github.io/giphy-api/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {' '}
+              Deployed
+            </a>
+          </p>
+          <hr />
+          <h3>Who's That Pokemon?</h3>
+          <span className="image main">
+            <img src={pokemon} alt="Who's That Pokemon? Screenshot" />
+          </span>
+          <p>
+            <strong>Description: </strong> Try to guess the name of the Pokemon.
+            There are four difficulties, each with different battle and victory
+            songs, that change the amount of guesses you get per game.
+          </p>
+          <p>
+            <strong>Technology Used: </strong> Javascript (vanilla), HTML5/CSS3
+            (vanilla)
+          </p>
+          <p>
+            <strong>Links: </strong>
+            <a
+              href="https://github.com/tmd913/word-guess-game"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {' '}
+              Github
+            </a>
+            <span> | </span>
+            <a
+              href="https://tmd913.github.io/word-guess-game/"
               target="_blank"
               rel="noopener noreferrer"
             >
