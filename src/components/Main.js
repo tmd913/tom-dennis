@@ -186,7 +186,7 @@ class Main extends React.Component {
             </a>
             <span> | </span>
             <a
-              href="https://tmd913.github.io/project0/"
+              href="https://tmd913.github.io/cuisintry/"
               target="_blank"
               rel="noopener noreferrer"
             >
