@@ -6,6 +6,7 @@ import freakyStyley from '../images/freaky-styley.png'
 import healthyHeads from '../images/healthy-heads.png'
 import cuisintry from '../images/cuisintry.png'
 import pug from '../images/pug.png'
+import clicky from '../images/clicky.png'
 import scraper538 from '../images/538scraper.png'
 import pokemon from '../images/pokemon.png'
 import giphy from '../images/giphy.png'
@@ -221,6 +222,42 @@ class Main extends React.Component {
             <span> | </span>
             <a
               href="https://pug-playlists.herokuapp.com/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {' '}
+              Deployed
+            </a>
+          </p>
+          <hr />
+          <h3>Clicky Game</h3>
+          <span className="image main">
+            <img src={clicky} alt="Clicky Game Screenshot" />
+          </span>
+          <p>
+            <strong>Description: </strong> React memory game where you try not
+            to click the same dog twice. A winning score will be 12, meaning you
+            clicked each dog but did not click any dog multiple times. There are
+            animations when you guess incorrectly or win the game. This app is
+            mobile responsive, so you can enjoy on your computer or mobile
+            device!
+          </p>
+          <p>
+            <strong>Technology Used: </strong> Javascript, React, Bootstrap
+          </p>
+          <p>
+            <strong>Links: </strong>
+            <a
+              href="https://github.com/tmd913/clicky-game-react"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              {' '}
+              Github
+            </a>
+            <span> | </span>
+            <a
+              href="https://tmd913.github.io/clicky-game-react/"
               target="_blank"
               rel="noopener noreferrer"
             >
